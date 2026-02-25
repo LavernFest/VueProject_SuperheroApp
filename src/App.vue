@@ -31,7 +31,7 @@
         <thead>
             <tr>
                 <th>ID</th>
-                <th>Superhero Name</th>
+                <th>Superhero Name Hola</th>
                 <th>Real Name</th>
                 <th>Universe</th>
                 <th>Genre</th>
